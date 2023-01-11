@@ -1,4 +1,3 @@
-# yolov8-object-tracking
 
 # yolov8-object-tracking
 
@@ -47,7 +46,6 @@ python yolo\v8\detect\detect_and_trk.py model=yolov8m.pt source=1 model=yolov8m.
 <table>
   <tr>
     <td>YOLOv8s Object Tracking</td>
-    <td>YOLOv8m Object Tracking</td>
   </tr>
   <tr>
     <td><img src="https://github.com/noorkhokhar99/yolov8-object-tracking/blob/main/Blue%20%26%20Yellow%20Professional%20Future%20Technology%20Presentation%20(1).png"></td>
