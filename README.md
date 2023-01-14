@@ -30,13 +30,13 @@ pip install ultralytics==8.0.0
 python yolo/v8/detect/detect_and_trk.py  model=yolov8m.pt source="test.mp4" model=yolov8m.pt show=True
 
 #imagefile
-python yolo\v8\detect\detect_and_trk.py model=yolov8m.pt source="path to image" model=yolov8m.pt
+python yolo/v8/detect/detect_and_trk.py model=yolov8m.pt source="path to image" model=yolov8m.pt
 
 #Webcam
-python yolo\v8\detect\detect_and_trk.py model=yolov8m.pt source=0 model=yolov8m.pt show=True
+ppython yolo/v8/detect/detect_and_trk.py model=yolov8m.pt source=0 model=yolov8m.pt show=True
 
 #External Camera
-python yolo\v8\detect\detect_and_trk.py model=yolov8m.pt source=1 model=yolov8m.pt show=True
+python yolo/v8/detect/detect_and_trk.py model=yolov8m.pt source=1 model=yolov8m.pt show=True
 ```
 
 - Output file will be created in the working-dir/runs/detect/obj-tracking with original filename
