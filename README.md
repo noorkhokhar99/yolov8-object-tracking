@@ -27,7 +27,7 @@ pip install ultralytics==8.0.0
 - Do Tracking with mentioned command below
 ```
 #video file
-python yolo\v8\detect\detect_and_trk.py model=yolov8s.pt source="test.mp4" show=True
+python yolo/v8/detect/detect_and_trk.py  model=yolov8m.pt source="test.mp4" model=yolov8m.pt show=True
 
 #imagefile
 python yolo\v8\detect\detect_and_trk.py model=yolov8m.pt source="path to image" model=yolov8m.pt
