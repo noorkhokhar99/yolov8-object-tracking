@@ -11,7 +11,7 @@
 
 - Clone the repository
 ```
-https://github.com/RizwanMunawar/yolov8-object-tracking.git
+git clone https://github.com/noorkhokhar99/yolov8-object-tracking.git
 ```
 
 - Goto cloned folder
